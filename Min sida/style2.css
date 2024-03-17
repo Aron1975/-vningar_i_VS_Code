@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background-color: rgba(126, 90, 134, 0.96);
+}
+
+.mycontainer {
+    width: 100%;
+    overflow: auto;
+}
+
+.mycontainer div {
+    width: 25%;
+    float: left;
+}
+
+#snurra:hover{
+    rotate: 1 1 0 60deg;
+}
+
+h2 {
+    text-align: center;
+}
+
+p {
+    font-size: 120%;
+    margin: 8%;
+}
+
+header {
+    background-color: rgb(30, 80, 64);
+}
